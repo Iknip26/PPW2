@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T21:31:42.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JON9VG1jTc84Lr-vxn34" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T00:55:14.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Zk0YQhXreuP6eKbq_7Q3" version="21.7.4" type="github">
   <diagram name="Page-1" id="5cM_U98hyAv5uVVu_wwB">
-    <mxGraphModel dx="2123" dy="2063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
           <mxGeometry x="20" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-4" value="APLIKASI PEMBELAJARAN" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="90" width="630" height="960" as="geometry" />
+          <mxGeometry x="140" y="90" width="630" height="960" as="geometry" />
         </mxCell>
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-8" value="Login / sign in&lt;br&gt;&amp;nbsp;akun" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JtMoBv-EsyKKJYAJ59AV-4">
           <mxGeometry x="230" y="380" width="110" height="60" as="geometry" />
@@ -48,20 +48,16 @@
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-10" value="Latihan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JtMoBv-EsyKKJYAJ59AV-4">
           <mxGeometry x="140" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JtMoBv-EsyKKJYAJ59AV-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JtMoBv-EsyKKJYAJ59AV-4" source="JtMoBv-EsyKKJYAJ59AV-15" target="JtMoBv-EsyKKJYAJ59AV-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="410" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="JtMoBv-EsyKKJYAJ59AV-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JtMoBv-EsyKKJYAJ59AV-4" source="JtMoBv-EsyKKJYAJ59AV-15" target="JtMoBv-EsyKKJYAJ59AV-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JtMoBv-EsyKKJYAJ59AV-78" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtMoBv-EsyKKJYAJ59AV-77">
-          <mxGeometry x="0.2894" relative="1" as="geometry">
+        <mxCell id="JtMoBv-EsyKKJYAJ59AV-123" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtMoBv-EsyKKJYAJ59AV-122">
+          <mxGeometry x="-0.049" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-15" value="Bertanya kepada pengajar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JtMoBv-EsyKKJYAJ59AV-4">
-          <mxGeometry x="370" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="465" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JtMoBv-EsyKKJYAJ59AV-4" source="JtMoBv-EsyKKJYAJ59AV-25" target="JtMoBv-EsyKKJYAJ59AV-8">
           <mxGeometry relative="1" as="geometry">
@@ -113,14 +109,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JtMoBv-EsyKKJYAJ59AV-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JtMoBv-EsyKKJYAJ59AV-4" source="JtMoBv-EsyKKJYAJ59AV-84" target="JtMoBv-EsyKKJYAJ59AV-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JtMoBv-EsyKKJYAJ59AV-97" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtMoBv-EsyKKJYAJ59AV-96">
-          <mxGeometry x="-0.0165" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-84" value="Menjawab pertanyaan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JtMoBv-EsyKKJYAJ59AV-4">
           <mxGeometry x="470" y="510" width="100" height="70" as="geometry" />
         </mxCell>
@@ -135,6 +123,14 @@
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-85" value="Melakukan pertemuan online dengan pengguna" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JtMoBv-EsyKKJYAJ59AV-4">
           <mxGeometry x="460" y="620" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="JtMoBv-EsyKKJYAJ59AV-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JtMoBv-EsyKKJYAJ59AV-4" source="JtMoBv-EsyKKJYAJ59AV-95" target="JtMoBv-EsyKKJYAJ59AV-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JtMoBv-EsyKKJYAJ59AV-125" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtMoBv-EsyKKJYAJ59AV-124">
+          <mxGeometry x="0.0363" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-95" value="edit / hapus komen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JtMoBv-EsyKKJYAJ59AV-4">
           <mxGeometry x="300" y="550" width="100" height="70" as="geometry" />
         </mxCell>
@@ -146,23 +142,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JtMoBv-EsyKKJYAJ59AV-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JtMoBv-EsyKKJYAJ59AV-4" source="JtMoBv-EsyKKJYAJ59AV-103" target="JtMoBv-EsyKKJYAJ59AV-108">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="525" y="875" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JtMoBv-EsyKKJYAJ59AV-110" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtMoBv-EsyKKJYAJ59AV-109">
-          <mxGeometry x="0.3984" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-103" value="Upload / materi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JtMoBv-EsyKKJYAJ59AV-4">
           <mxGeometry x="470" y="740" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JtMoBv-EsyKKJYAJ59AV-108" value="Upload / materi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JtMoBv-EsyKKJYAJ59AV-4">
-          <mxGeometry x="320" y="840" width="110" height="70" as="geometry" />
+        <mxCell id="JtMoBv-EsyKKJYAJ59AV-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="JtMoBv-EsyKKJYAJ59AV-4" source="JtMoBv-EsyKKJYAJ59AV-108" target="JtMoBv-EsyKKJYAJ59AV-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JtMoBv-EsyKKJYAJ59AV-127" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtMoBv-EsyKKJYAJ59AV-126">
+          <mxGeometry x="-0.5131" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JtMoBv-EsyKKJYAJ59AV-108" value="edit / hapus materi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JtMoBv-EsyKKJYAJ59AV-4">
+          <mxGeometry x="299" y="840" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JtMoBv-EsyKKJYAJ59AV-88" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JtMoBv-EsyKKJYAJ59AV-82" target="JtMoBv-EsyKKJYAJ59AV-8">
           <mxGeometry relative="1" as="geometry" />
